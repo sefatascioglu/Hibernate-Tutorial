@@ -1,3 +1,3 @@
 # Hibernate-Tutorial
 
-Hibernate kullanılarak CRUD operasyonları implement edilmiştir.
+Hibernate kullanılarak database bağlantı konfigürasyonları ve CRUD operasyonları implement edilmiştir.
